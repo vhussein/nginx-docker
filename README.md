@@ -8,4 +8,4 @@ You can import the postman collection & test it out
 
 ## Clean Up
 
-> docker-compose down****
+> docker-compose down
